@@ -14,11 +14,11 @@ Requires: pypi-urlobject-license = %{version}-%{release}
 Requires: pypi-urlobject-python = %{version}-%{release}
 Requires: pypi-urlobject-python3 = %{version}-%{release}
 BuildRequires : buildreq-distutils3
-BuildRequires : pluggy
+BuildRequires : pypi(pluggy)
 BuildRequires : py-python
 BuildRequires : pytest
 BuildRequires : tox
-BuildRequires : virtualenv
+BuildRequires : pypi(virtualenv)
 
 %description
 URLObject 2
