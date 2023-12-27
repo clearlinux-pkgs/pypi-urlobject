@@ -4,7 +4,7 @@
 #
 Name     : pypi-urlobject
 Version  : 2.4.3
-Release  : 14
+Release  : 15
 URL      : https://files.pythonhosted.org/packages/e2/b8/1d0a916f4b34c4618846e6da0e4eeaa8fcb4a2f39e006434fe38acb74b34/URLObject-2.4.3.tar.gz
 Source0  : https://files.pythonhosted.org/packages/e2/b8/1d0a916f4b34c4618846e6da0e4eeaa8fcb4a2f39e006434fe38acb74b34/URLObject-2.4.3.tar.gz
 Summary  : A utility class for manipulating URLs.
